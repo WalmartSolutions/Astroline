@@ -16,7 +16,7 @@ The devs are just t4rds. We are going to gass their new client too.
 # Credits
 - remi/ziue - Making this client.
 - [economics][2] - decrypting classes, mirage framework
-- [3000IQPlay[1] - removing funny keyauth
+- [3000IQPlay][1] - removing funny keyauth
 - ??? - jar
 
 # GUI (Bind: )

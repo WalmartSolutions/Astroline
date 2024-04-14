@@ -14,12 +14,13 @@ The devs are just t4rds. We are going to gass their new client too.
 3. Launch Minecraft with Astroline-0.1.1 instance.
 
 # Credits
-- remi/ziue - Making this client.
+- remi/ziue - making this client.
 - [economics][2] - decrypting classes, mirage framework
 - [3000IQPlay][1] - removing funny keyauth
-- ??? - jar
+- AlexBartles (_alexbartles) - jar
 
-# GUI (Bind: )
+# GUI (Bind: Rhisft)
+<img src="https://github.com/WS-External-Cloud/Readme-Assets/blob/main/astroline-gui.png?raw=true">
 
 # Hall of Autims
 <img src="https://i.imgur.com/54zCRhT.png">
